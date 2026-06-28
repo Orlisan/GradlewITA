@@ -47,6 +47,5 @@ Then drop your `.jitaext` in the `extensions/` folder next to the JAR.
 
 A small Italian extension for Minecraft Fabric modding is available here
 
-## License
-
-MIT
+Copyright (c) 2026 Orlisan. All Rights Reserved.
+Source is available for viewing only. No use, modification, or redistribution permitted without explicit permission.
