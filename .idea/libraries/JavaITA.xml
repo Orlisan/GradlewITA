@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JavaITA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/JavaITA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
