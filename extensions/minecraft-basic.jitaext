@@ -36,6 +36,7 @@ Dimensione-->Dimension
 Entità-->Entity
 EntitàVivente-->LivingEntity
 ComponenteDeiDati-->DataComponent
+ComponentiDeiDati-->DataComponents
 Componente-->Component
 traduttibile-->translatable
 letterale-->literal
