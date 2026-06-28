@@ -1,6 +1,6 @@
 # GradlewITA
 
-A Gradle wrapper that automatically transpiles `.javaita` files before building, allowing you to write Minecraft mods (or any Java project) in your own language.
+A Gradle wrapper that automatically transpiles `.javaita` files before building, allowing you to write Minecraft mods (or any Java project) in your own language. (default italian)
 
 ## How it works
 
